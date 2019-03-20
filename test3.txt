@@ -1,4 +1,4 @@
 test3
 ======
 Practice for test3
-Start to use the Netbeans
+Start to use the Netbeans 8.2 testing
